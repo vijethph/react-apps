@@ -4,7 +4,7 @@ import React from "react";
 import "./Card.css";
 
 // 'props.children' is a special prop which every component receives, even if its never set explicitly. 'children' is a reserved name, it is not used as attribute name during declaration.
-// The calue of 'props.children' is always the content between opening and closing tags of shell/container custom component
+// The value of 'props.children' is always the content between opening and closing tags of shell/container custom component
 const Card = (props) => {
   const classes = "card " + props.className;
 
