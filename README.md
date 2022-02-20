@@ -5,7 +5,7 @@
 A collection of apps made in React.js
 
 |    Expense Tracker   |    Todo App     |             
-| :---------: | :-----------: | :---------: | :-------------: |      
+| :---------: | :-----------: |    
 | <img src="screenshots/expensetracker.png" alt="Expense Tracker" height="400" /> | <img src="screenshots/todoapp.png" alt="Todo App" height="400" /> |     
 |   Users List   |    Simple Login  |   
 | :------------: | :-------------: |     
