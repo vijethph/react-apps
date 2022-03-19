@@ -16,9 +16,9 @@ A collection of apps made in React.js
 | :------------: | :-------------: |            
 | <img src="screenshots/foodorder.png" alt="Food Order" height="400" width="400" /> | <img src="screenshots/simplelist.png" alt="Simple List" height="400" /> |       
 
-| Search Users |         
-| :------------: |       
-| <img src="screenshots/searchusers.png" alt="Search Users" height="400" /> |        
+| Search Users |  Movies List |              
+| :------------: | :---------------: |               
+| <img src="screenshots/searchusers.png" alt="Search Users" height="400" /> |  <img src="screenshots/movieslist.png" alt="Movies List" height="400" />  |          
  
 
 <!-- LICENSE -->
