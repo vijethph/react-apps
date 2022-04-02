@@ -24,10 +24,10 @@ A collection of apps made in React.js
 | <img src="screenshots/searchusers.png" alt="Search Users" height="400" /> |  <img src="screenshots/movieslist.png" alt="Movies List" height="400" />  |  
 | Class-based components & Lifecycle Methods | HTTP Requests |         
 
-| Tasks List |      
-| :----------------: |       
-| <img src="screenshots/taskslist.png" alt="Tasks List" height="400" /> |   
-| Custom React Hooks |                     
+| Tasks List | Simple Form |                 
+| :----------------: | :--------------------: |                 
+| <img src="screenshots/taskslist.png" alt="Tasks List" height="400" /> | <img src="screenshots/simpleform.png" alt="Simple Form" height="400" /> |                    
+| Custom React Hooks | Forms & User Input |                              
  
 
 <!-- LICENSE -->
