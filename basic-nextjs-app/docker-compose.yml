@@ -1,0 +1,27 @@
+version: "3"
+
+services:
+  nextjsapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nextjsapp
+    links:
+      - mongo
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo
+    # networks:
+    #   - node-webapp-network
+  mongo:
+    container_name: mongo
+    image: mongo
+    # restart: always
+    # volumes:
+    #   - ./data:/data/db
+    ports:
+      - "27017:27017"
+# networks:
+#   node-webapp-network:
+#     driver: bridge
