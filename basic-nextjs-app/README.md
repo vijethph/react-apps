@@ -32,3 +32,37 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Deploy in local Kubernetes (using minikube)
+Install kubectl and minikube. Then run these commands in order:
+```bash
+minikube start
+
+minikube status
+
+kubectl cluster-info
+```
+Now, switch to minikube's docker daemon, as minikube runs in VM, and cannot use local images on its own. So, nextjsapp docker image needs to be built within minikube's docker daemon. Then, deploy the kubernetes cluster
+```bash
+eval $(minikube docker-env)
+
+docker build -t nextjs-docker-app:1.0
+
+kubectl apply -f nextjsk8s
+
+kubectl get pods --watch
+
+minikube service nextjsmongoapp --url
+```
+
+## Teardown for local Kubernetes
+```bash
+kubectl delete -f nextjsk8s
+
+minikube stop
+
+minikube delete --all
+
+# switch back to normal docker daemon
+eval $(minikube docker-env -u)
+```
