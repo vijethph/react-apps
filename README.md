@@ -27,7 +27,12 @@ A collection of apps made in React.js
 | Tasks List | Simple Form |                 
 | :----------------: | :--------------------: |                 
 | <img src="screenshots/taskslist.png" alt="Tasks List" height="400" /> | <img src="screenshots/simpleform.png" alt="Simple Form" height="400" /> |                    
-| Custom React Hooks | Forms & User Input |                              
+| Custom React Hooks | Forms & User Input |                   
+
+| Random Users |  Login Counter |         
+| :------------: | :-------------: |            
+| <img src="screenshots/randomusers.png" alt="Random Users" height="400" /> | <img src="screenshots/logincounter.png" alt="Login Counter" height="400" /> |   
+| Next.js basics | Redux and Redux Toolkit |                             
  
 
 <!-- LICENSE -->
