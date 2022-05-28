@@ -32,7 +32,12 @@ A collection of apps made in React.js
 | Random Users |  Login Counter |         
 | :------------: | :-------------: |            
 | <img src="screenshots/randomusers.png" alt="Random Users" height="400" /> | <img src="screenshots/logincounter.png" alt="Login Counter" height="400" /> |   
-| Next.js basics | Redux and Redux Toolkit |                             
+| Next.js basics | Redux and Redux Toolkit |      
+
+| Product Cart |                       
+| :----------------: |                        
+| <img src="screenshots/productcart.png" alt="Product Cart" height="400" /> |                            
+| Side-effects, Async tasks in Redux and Thunks |                                  
  
 
 <!-- LICENSE -->
