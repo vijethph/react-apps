@@ -34,10 +34,10 @@ A collection of apps made in React.js
 | <img src="screenshots/randomusers.png" alt="Random Users" height="400" /> | <img src="screenshots/logincounter.png" alt="Login Counter" height="400" /> |   
 | Next.js basics | Redux and Redux Toolkit |      
 
-| Product Cart |                       
-| :----------------: |                        
-| <img src="screenshots/productcart.png" alt="Product Cart" height="400" /> |                            
-| Side-effects, Async tasks in Redux and Thunks |                                  
+| Product Cart | Simple Quotes |                                 
+| :----------------: | :-------------: |                               
+| <img src="screenshots/productcart.png" alt="Product Cart" height="400" /> | <img src="screenshots/simplequotes.png" alt="Simple Quotes" height="400" /> |                                 
+| Side-effects, Async tasks in Redux and Thunks | React Router v5 & v6 |                                       
  
 
 <!-- LICENSE -->
