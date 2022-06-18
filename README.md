@@ -37,7 +37,12 @@ A collection of apps made in React.js
 | Product Cart | Simple Quotes |                                 
 | :----------------: | :-------------: |                               
 | <img src="screenshots/productcart.png" alt="Product Cart" height="400" /> | <img src="screenshots/simplequotes.png" alt="Simple Quotes" height="400" /> |                                 
-| Side-effects, Async tasks in Redux and Thunks | React Router v5 & v6 |                                       
+| Side-effects, Async tasks in Redux and Thunks | React Router v5 & v6 |     
+
+| Simple Auth  |         
+| :------------: |            
+| <img src="screenshots/simpleauth.png" alt="Simple Auth" height="400" />  |     
+| Authentication & Navigation Guards |                                        
  
 
 <!-- LICENSE -->
