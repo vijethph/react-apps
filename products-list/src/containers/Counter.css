@@ -1,0 +1,12 @@
+.counter {
+  text-align: center;
+  margin: 3rem 3rem;
+  padding: 2rem 2rem;
+  border-radius: 5px;
+  background-color: #ccd5ae;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.counter button {
+  margin: 0 1rem;
+}

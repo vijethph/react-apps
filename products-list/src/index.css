@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  margin: 0;
+  background-color: #2a9d8f;
+}
+
+button {
+  font: inherit;
+  background: #fca311;
+  padding: 0.5rem 2rem;
+  color: white;
+  border: 1px solid #fca311;
+  margin: 0.5rem 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover,
+button:active {
+  background: white;
+  color: #fca311;
+}
+
+button:focus {
+  outline: none;
+}
+
+button.button-outline {
+  background: #023047;
+  color: #ffb703;
+}
+
+button.button-outline:hover,
+button.button-outline:active {
+  background: #fca311;
+  color: white;
+  box-shadow: none;
+}

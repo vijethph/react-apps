@@ -39,10 +39,15 @@ A collection of apps made in React.js
 | <img src="screenshots/productcart.png" alt="Product Cart" height="400" /> | <img src="screenshots/simplequotes.png" alt="Simple Quotes" height="400" /> |                                 
 | Side-effects, Async tasks in Redux and Thunks | React Router v5 & v6 |     
 
-| Simple Auth  |         
-| :------------: |            
-| <img src="screenshots/simpleauth.png" alt="Simple Auth" height="400" />  |     
-| Authentication & Navigation Guards |                                        
+| Simple Auth  | Simple Animations |                
+| :------------: | :--------------: |                  
+| <img src="screenshots/simpleauth.png" alt="Simple Auth" height="400" />  | <img src="screenshots/simpleanimations.png" alt="Simple Animations" height="400" /> |             
+| Authentication & Navigation Guards | CSS Transitions & Animations |         
+
+| Products List |     
+| :------------: |                    
+| <img src="screenshots/productslist.png" alt="Products List" height="400" />  |                         
+| Replacing Redux with React Hooks |                                              
  
 
 <!-- LICENSE -->
