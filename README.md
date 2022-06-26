@@ -44,10 +44,10 @@ A collection of apps made in React.js
 | <img src="screenshots/simpleauth.png" alt="Simple Auth" height="400" />  | <img src="screenshots/simpleanimations.png" alt="Simple Animations" height="400" /> |             
 | Authentication & Navigation Guards | CSS Transitions & Animations |         
 
-| Products List |     
-| :------------: |                    
-| <img src="screenshots/productslist.png" alt="Products List" height="400" />  |                         
-| Replacing Redux with React Hooks |                                              
+| Products List | Simple Tests |            
+| :------------: | :--------------: |                             
+| <img src="screenshots/productslist.png" alt="Products List" height="400" />  |  <img src="screenshots/simpletests.png" alt="Simple Tests" height="400" /> |                                        
+| Replacing Redux with React Hooks | Testing & Mocks |                                                       
  
 
 <!-- LICENSE -->
