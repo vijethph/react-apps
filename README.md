@@ -47,8 +47,13 @@ A collection of apps made in React.js
 | Products List | Simple Tests |            
 | :------------: | :--------------: |                             
 | <img src="screenshots/productslist.png" alt="Products List" height="400" />  |  <img src="screenshots/simpletests.png" alt="Simple Tests" height="400" /> |                                        
-| Replacing Redux with React Hooks | Testing & Mocks |                                                       
- 
+| Replacing Redux with React Hooks | Testing & Mocks |       
+
+| React Typescript |              
+| :------------: |               
+| <img src="screenshots/reacttypescript.png" alt="React Typescript" height="400" /> |        
+| Typescript Basics |                                                        
+
 
 <!-- LICENSE -->
 
