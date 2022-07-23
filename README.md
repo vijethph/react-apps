@@ -49,10 +49,10 @@ A collection of apps made in React.js
 | <img src="screenshots/productslist.png" alt="Products List" height="400" />  |  <img src="screenshots/simpletests.png" alt="Simple Tests" height="400" /> |                                        
 | Replacing Redux with React Hooks | Testing & Mocks |       
 
-| React Typescript |              
-| :------------: |               
-| <img src="screenshots/reacttypescript.png" alt="React Typescript" height="400" /> |        
-| Typescript Basics |                                                        
+| React Typescript | Simple Ingredients |                      
+| :------------: | :--------------: |                      
+| <img src="screenshots/reacttypescript.png" alt="React Typescript" height="400" /> | <img src="screenshots/simpleingredients.png" alt="Simple Ingredients" height="400" /> |                              
+| Typescript Basics | Practice Project |                                                                  
 
 
 <!-- LICENSE -->
