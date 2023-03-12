@@ -52,7 +52,12 @@ A collection of apps made in React.js
 | React Typescript | Simple Ingredients |                      
 | :------------: | :--------------: |                      
 | <img src="screenshots/reacttypescript.png" alt="React Typescript" height="400" /> | <img src="screenshots/simpleingredients.png" alt="Simple Ingredients" height="400" /> |                              
-| Typescript Basics | Practice Project |                                                                  
+| Typescript Basics | Practice Project |         
+
+| Events List | Simple Posts |                 
+| :------------: | :--------------: |                                  
+| <img src="screenshots/eventslist.png" alt="Events List" height="400" />  |  <img src="screenshots/simpleposts.png" alt="Simple Posts" height="400" /> |                                            
+| React Router v6 | Practice Project |                                                                   
 
 
 <!-- LICENSE -->
@@ -60,3 +65,10 @@ A collection of apps made in React.js
 ## License
 
 Distributed under the MIT License.
+
+## Acknowledgements
+
+- [React - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- [React Docs](https://reactjs.org/docs/getting-started.html)
+- [React Router Docs](https://reactrouter.com/en/main)
+- [Redux Docs](https://redux.js.org/)
