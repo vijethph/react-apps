@@ -57,7 +57,17 @@ A collection of apps made in React.js
 | Events List | Simple Posts |                 
 | :------------: | :--------------: |                                  
 | <img src="screenshots/eventslist.png" alt="Events List" height="400" />  |  <img src="screenshots/simpleposts.png" alt="Simple Posts" height="400" /> |                                            
-| React Router v6 | Practice Project |                                                                   
+| React Router v6 | Practice Project |    
+
+| Investments Calculator | Simple Challenges |                 
+| :------------: | :--------------: |                                  
+| <img src="screenshots/investmentscalculator.png" alt="Investments Calculator" height="400" />  |  <img src="screenshots/simplechallenges.png" alt="Simple Challenges" height="400" /> |                                            
+| Practice Project | Framer Motion Animations |    
+
+| Simple Events |           
+| :------------: |                                   
+| <img src="screenshots/simpleevents.png" alt="Simple Events" height="400" />  |                                                
+| TanStack Query |                                                                              
 
 
 <!-- LICENSE -->
