@@ -64,10 +64,10 @@ A collection of apps made in React.js
 | <img src="screenshots/investmentscalculator.png" alt="Investments Calculator" height="400" />  |  <img src="screenshots/simplechallenges.png" alt="Simple Challenges" height="400" /> |                                            
 | Practice Project | Framer Motion Animations |    
 
-| Simple Events |           
-| :------------: |                                   
-| <img src="screenshots/simpleevents.png" alt="Simple Events" height="400" />  |                                                
-| TanStack Query |                                                                              
+| Simple Events | Simple Meals |                 
+| :------------: | :--------------: |                                        
+| <img src="screenshots/simpleevents.png" alt="Simple Events" height="400" />  |  <img src="screenshots/simplemeals.png" alt="Simple Meals" height="400" /> |                                                                                        
+| TanStack Query | NextJS App Router |                                                                                   
 
 
 <!-- LICENSE -->
